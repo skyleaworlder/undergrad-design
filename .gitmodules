@@ -1,0 +1,31 @@
+[submodule "repo_crawler"]
+    path = repo_crawler
+    url = https://github.com/AOSPworking/repo_crawler
+[submodule "pkg_repo_tool"]
+    path = pkg_repo_tool
+    url = https://github.com/AOSPworking/pkg_repo_tool
+[submodule "bp_collector"]
+    path = bp_collector
+    url = https://github.com/AOSPworking/bp_collector
+[submodule "manifest_refinement"]
+    path = manifest_refinement
+    url = https://github.com/AOSPworking/manifest_refinement
+[submodule "ninja-hacked"]
+    path = ninja-hacked
+    url = https://github.com/AOSPworking/ninja-hacked
+[submodule "deps_reflection"]
+    path = deps_reflection
+    url = https://github.com/AOSPworking/deps_reflection
+[submodule "diff_extractor"]
+    path = diff_extractor
+    url = https://github.com/AOSPworking/diff_extractor
+[submodule "cg_generator"]
+    path = cg_generator
+    url = https://github.com/AOSPworking/cg_generator
+[submodule "mid_term_slides"]
+    path = mid_term_slides
+    url = https://github.com/AOSPworking/mid_term_slides
+[submodule "thesis"]
+    path = thesis
+    url = https://github.com/AOSPworking/thesis
+
